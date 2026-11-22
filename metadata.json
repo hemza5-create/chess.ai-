@@ -1,0 +1,6 @@
+{
+  "name": "Chess Vision",
+  "description": "Chess-Vision Stockfish UCI tactical analysis studio, engine opponent, and bilingual chess training lab",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
